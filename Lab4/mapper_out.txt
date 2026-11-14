@@ -1,0 +1,10 @@
+Limoncello	37.74
+Cappuccino	8.28
+Chicken Alfredo	30.3
+Spaghetti Carbonara	32.1
+Stuffed Mushrooms	18.26
+Margherita Pizza	8.35
+Bruschetta	16.14
+Gelato	11.33
+Spaghetti Carbonara	32.1
+Chicken Alfredo	15.15

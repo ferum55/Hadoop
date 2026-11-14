@@ -1,0 +1,14 @@
+[
+  {
+    "payment_method": "Cash",
+    "payment_group": "Offline"
+  },
+  {
+    "payment_method": "Credit Card",
+    "payment_group": "Electronic"
+  },
+  {
+    "payment_method": "Online Payment",
+    "payment_group": "Electronic"
+  }
+]
